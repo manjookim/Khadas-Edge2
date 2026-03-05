@@ -88,7 +88,7 @@ pip3 install ./wheel/rknn_toolkit_lite2-1.3.0-cp310-cp310-linux_aarch64.whl
 
 ------
 ### References
-https://github.com/khadas/edge2-npu
-https://github.com/airockchip/rknn_model_zoo
-https://github.com/airockchip/ultralytics_yolov8
-https://github.com/airockchip/rknn-toolkit2
+https://github.com/khadas/edge2-npu    
+https://github.com/airockchip/rknn_model_zoo     
+https://github.com/airockchip/ultralytics_yolov8    
+https://github.com/airockchip/rknn-toolkit2     
