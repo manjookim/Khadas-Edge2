@@ -75,13 +75,13 @@ pip3 install ./wheel/rknn_toolkit_lite2-1.3.0-cp310-cp310-linux_aarch64.whl
 ------
 
 1. RKNN Compile     
-   See  [Compile](https://github.com/manjookim/Khadas-Edge2/tree/main/compile/README.md) for more details
+   See  [Compile](https://github.com/manjookim/Khadas-Edge2/tree/main/compile) for more details
 2. Inference    
-    See  [inference](https://github.com/manjookim/Khadas-Edge2/tree/main/Inference/README.md) for more details                   
+    See  [inference](https://github.com/manjookim/Khadas-Edge2/tree/main/inference) for more details                   
 3. monitoring     
-    See  [Monitoring](https://github.com/manjookim/Khadas-Edge2/tree/main/monitoring/README.md) for more details
+    See  [Monitoring](https://github.com/manjookim/Khadas-Edge2/tree/main/monitoring) for more details
 4. accuracy     
-   See  [accuracy](https://github.com/manjookim/Khadas-Edge2/tree/main/accuracy/README.md) for more details               
+   See  [accuracy](https://github.com/manjookim/Khadas-Edge2/tree/main/accuracy) for more details               
 
 
 
