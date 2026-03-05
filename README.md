@@ -20,7 +20,7 @@ Edge2 Python Version : 3.10
 ####  RK3588에 사용되는 프레임워크        
 + RKNN toolkit2
 + RKNN toolkit_lite2 
-+ rknnn model zoo              
++ rknn model zoo              
 
 ####  호스트(PC)/rpi 둘 다 사용 한 이유   
 PC의 컴파일 성능이 더 우수함           
