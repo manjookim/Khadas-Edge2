@@ -1,12 +1,12 @@
 # Khadas-Edge2
 Khadas Edge2 NPU - AI 가속기 연구 
 
-Khadas Edge2 OS : edge2-                         
+Khadas Edge2 OS : edge2-ubuntu-22.04-gnome-linux-5.10-fenix-1.6.2-240110                        
 NPU version : RK3588     
-RKNN Toolkit2 version : v0.9.0    
-RKNN Runtime version : v1.3.0                
-PC Python version : 3.8
-Edge2 Python Version : 3.10
+RKNN Toolkit2 version : v0.9.0     
+RKNN Runtime version : v1.3.0                 
+PC Python version : 3.8    
+Edge2 Python Version : 3.10   
 
 ------
 
