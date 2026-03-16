@@ -47,13 +47,13 @@ conda deactivate
 2. Get Convert Tool
 ```
 git clone https://github.com/rockchip-linux/rknn-toolkit2.git
-cd rknn-toolkit2
+cd rknn-toolkit2/rknn-toolkit2
 ```
 ```
 sudo apt-get install python3 python3-dev python3-pip
 sudo apt-get install libxslt1-dev zlib1g-dev libglib2.0 libsm6 libgl1-mesa-glx libprotobuf-dev gcc cmake
-pip3 install -r doc/requirements_cp38-*.txt
-pip3 install packages/x86_64/rknn_toolkit2-2.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pip3 install -r packages/requirements_cp38-1.6.0.txt
+pip3 install packages/rknn_toolkit2-1.6.0+81f21f4d-cp38-cp38-linux_x86_64.whl
 ```
 
 
